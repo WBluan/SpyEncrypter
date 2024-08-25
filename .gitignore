@@ -1,0 +1,141 @@
+# Repositories files and directories
+.vs/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rchive/
+*.builds/
+*.suo
+*.ncb
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.iobj
+*.tlog
+*.log
+*.cache
+*.rsp
+*.swp
+
+# VS Code settings
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+# NuGet Package folders
+# A common location for NuGet packages is in the global packages folder
+# C:\Users\[Username]\.nuget\packages
+# Adding a folder like this here will exclude all the packages locally installed.
+# You can adjust this path as necessary.
+.nuget/
+# Uncomment this line if you are using Azure DevOps Pipeline
+# [A-Z]*.yml
+
+# Web Project
+*.csproj.user
+*.dbmdl
+*.bak
+*.sql
+*.suo
+
+# Local History for Visual Studio
+.vs/
+
+# ReSharper
+.idea/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.tlog
+*.tmp
+
+# NLog
+*.nlog
+
+# JetBrains Rider
+.idea/
+
+# Backup & report files
+*.tmp
+*.bak
+*.swp
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
+*.gz
+
+# Binaries
+*.dll
+*.exe
+
+# Custom generated files
+*.pdf
+*.xls
+*.xlsx
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.iso
+*.img
+*.dmg
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+*.gz
+*.xz
+*.bz2
+*.lz
+*.cab
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Auto-generated files
+*.csproj.user
+
+# Unity
+*.csproj
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# ASP.NET
+*.cshtml
+*.cshtml.cs
