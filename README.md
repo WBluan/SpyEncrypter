@@ -1,5 +1,7 @@
 # Spy Encrypter
-![readme](https://github.com/user-attachments/assets/7eead9a9-0f89-4ef3-bccc-545876e2a7c1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7eead9a9-0f89-4ef3-bccc-545876e2a7c1" alt="Spy Encrypter">
+</p>
 
 Spy Encrypter é uma aplicação de criptografia de senhas desenvolvida em WPF (Windows Presentation Foundation) usando C#. O projeto demonstra a aplicação de técnicas de segurança para proteger informações sensíveis.
 
