@@ -39,7 +39,7 @@
                    FontFamily="Roboto"
                    Margin="10,0,0,0"
                    Foreground="White">Encrypter</Label>
-            <Image Grid.Column="1" Source="Assets/spy.png" Height="90" VerticalAlignment="Center"/>
+            <Image Grid.Column="1" Source="/Assets/spy.png" Height="90" VerticalAlignment="Center"/>
         </Grid>
 
         <Grid Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
