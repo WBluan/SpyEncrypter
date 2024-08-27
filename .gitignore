@@ -139,3 +139,4 @@ Desktop.ini
 # ASP.NET
 *.cshtml
 *.cshtml.cs
+/obj/
