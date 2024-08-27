@@ -10,8 +10,10 @@ namespace Moving_Image.ViewModels
 {
     public class MainViewModel
     {
+
         public void EncryptPassword(string password, Action<string> updateEncryptedTextBox)
         {
+            if (String.IsNullOrEmpty(password)) {  return; }
             byte[] passwordByte = Encoding.UTF8.GetBytes(password);
             byte[] saltByte = PasswordHasher.GenerateSalt(16);
             byte[] hashedPasswordByte = PasswordHasher.GeneratePasswordHash(passwordByte, saltByte);

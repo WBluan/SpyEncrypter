@@ -29,7 +29,6 @@ namespace Moving_Image
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (inputUserPassword.Password == null) { return; }
             _mainViewModel.EncryptPassword(inputUserPassword.Password, hashedPassword =>
             {
                 encryptedTextBox.Text = hashedPassword;
